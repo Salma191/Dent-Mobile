@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="profile_highlight" type="id"/>
+    <item name="pw_highlight" type="id"/>
+    <!-- Ajoutez d'autres identifiants si nécessaire -->
+</resources>
